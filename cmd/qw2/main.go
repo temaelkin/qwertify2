@@ -1,3 +1,4 @@
+// qw2 (qwertify2) is a CLI password manager.
 package main
 
 import (
